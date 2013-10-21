@@ -6,7 +6,8 @@ node_modules
 components
 
 # Ignore dist folder
-dist
+#commit the dist to use it inside bower...
+#dist
 
 # HTML2js tmp folder
 .tmp
